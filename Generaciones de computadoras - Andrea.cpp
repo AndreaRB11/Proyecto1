@@ -5,38 +5,39 @@
 
 int main (int argc,char **argv)
 {
-setlocale(LC_ALL, "");
+system("color f5")
+	setlocale(LC_ALL, "");
 
-	printf("          GENERACIONES DE COMPUTADORAS Y SUS CARACTER蚐TICAS\n"
+	printf("          GENERACIONES DE COMPUTADORAS Y SUS CARACTER脥STICAS\n"
 	"\n"
-	"1era generaci髇 - D閏ada de 1940 a 1950:\n"
-	" -V醠vulas de vac韔\n"
-	" -Tama駉 y costo\n"
-	" -Programaci髇 basada en lenguaje de m醧uina\n"
+	"1era generaci贸n - D茅cada de 1940 a 1950:\n"
+	" -V谩lvulas de vac铆o\n"
+	" -Tama帽o y costo\n"
+	" -Programaci贸n basada en lenguaje de m谩quina\n"
 	"\n"
 	"\n"
-	"2da generaci髇 - D閏ada de 1950 a 1960:\n"
+	"2da generaci贸n - D茅cada de 1950 a 1960:\n"
 	" -Transistores\n"
-	" -Tecnolog韆 de montaje\n"
-	" -Memoria m醩 r醦ida\n"
+	" -Tecnolog铆a de montaje\n"
+	" -Memoria m谩s r谩pida\n"
 	"\n"
 	"\n"
-	"3era generaci髇 - D閏ada de 1960 a 1970:\n"
+	"3era generaci贸n - D茅cada de 1960 a 1970:\n"
 	" -Circuitos integrados\n"
 	" -Mayor velocidad y capacidad\n"
-	" -Uso de lenguajes de programaci髇 de alto nivel\n"
+	" -Uso de lenguajes de programaci贸n de alto nivel\n"
 	"\n"
 	"\n"
-	"4ta generaci髇 - D閏ada de 1960 a 1970:\n"
+	"4ta generaci贸n - D茅cada de 1960 a 1970:\n"
 	" -Microprocesadores\n"
 	" -Computadoras personales\n"
-	" -Avances gr醘icos y multimedia\n"
+	" -Avances gr谩ficos y multimedia\n"
 	"\n"
 	"\n"
-	"5ta generaci髇 - D閏ada de 1980 en adelante:\n"
+	"5ta generaci贸n - D茅cada de 1980 en adelante:\n"
 	" -Inteligecia artificial (IA)\n"
 	" -Procesamiento paralelo y distribuido\n"
-	" -Interacci髇 natural e interfaces de usuario avanzadas\n");
+	" -Interacci贸n natural e interfaces de usuario avanzadas\n");
 	return 0;
 }
 
